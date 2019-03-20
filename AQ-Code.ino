@@ -2,9 +2,9 @@
 #include <ESP8266HTTPClient.h>
 
 // Network Parameters
-char ssid[] = "iPhone von emile"; //SSID of your Wi-Fi router
-char pass[] = "hauab2001"; //Password of your Wi-Fi router
-char accessToken[] = "ccZBVtPueICKPNIFYiYIwwIbXgVrKkXM";
+char ssid[] = ""; //SSID of your Wi-Fi router
+char pass[] = ""; //Password of your Wi-Fi router
+char accessToken[] = "";
 
 char pingAddress[] = "http://www.finfour.net/wapi/oracle-ping"; // sensor ping end point
 char verificationAddress[] = "http://www.finfour.net/wapi/asset-block/sensor-verify"; // Claim verification end point
