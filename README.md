@@ -1,6 +1,6 @@
 # IoT-Air-Sensor
 
-https://github.com/WatKey/IoT-Air-Sensor/edit/master/
+https://github.com/WatKey/IoT-Air-Sensor
 
 Setup Instructions:
 
