@@ -4,7 +4,7 @@ Setup Instructions:
 
 0. Connect Sensor Board to your Computer
 1. Download Arduino IDE - https://www.arduino.cc/en/Main/Software
-2. Arduino -> Preferences -> Additional Boards Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+2. Arduino -> Preferences -> Add following link at Additional Boards Manager URLs: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 3. Tools -> Board -> Boards Manager -> type wemos in search -> install esp8266 by ESP8266 Community version 2.3.0
 4. Tools -> Board -> scroll down and choose: WeMos D1 R2 & mini
 5. Tools -> Port -> make sure the correct serial port is chosen
